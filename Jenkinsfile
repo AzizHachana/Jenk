@@ -11,7 +11,7 @@ pipeline {
 
                git branch: 'main',
 
-               url: 'https://github.com/AzizHachana/Jenk.git'
+               url: 'git@github.com:AzizHachana/Jenk.git'
 
           }
 
